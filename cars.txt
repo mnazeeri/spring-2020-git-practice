@@ -6,3 +6,6 @@ Tesla
 BMW
 Nissan
 Jaguar
+Bentley
+Audi
+Jeep
