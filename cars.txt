@@ -1,6 +1,8 @@
 Toyota
 Mazda
 Honda
+Kia
+Tesla
 BMW
 Nissan
 Jaguar

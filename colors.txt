@@ -3,6 +3,8 @@ Black
 Yellow
 Pink
 Orange
+Brown
+Grey
 White
 Purple
 
