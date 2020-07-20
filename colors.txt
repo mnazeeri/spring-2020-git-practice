@@ -2,3 +2,5 @@ Blue
 Red
 Green
 Black
+Sky-Blue
+Yellow
