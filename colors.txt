@@ -3,4 +3,6 @@ Black
 Yellow
 Pink
 Orange
-
+Brown
+Grey
+Apricot
